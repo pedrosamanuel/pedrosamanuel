@@ -57,6 +57,9 @@ I enjoy tackling complex challenges and building robust, scalable systems — es
 
 ## 📊 GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosamanuel&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/pedrosamanuel)
+
+
 [![](https://github-readme-stats.vercel.app/api?username=pedrosamanuel&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/pedrosamanuel)  
 [![](https://github-readme-streak-stats.herokuapp.com/?user=pedrosamanuel&theme=material-palenight)](https://github.com/pedrosamanuel)
 
