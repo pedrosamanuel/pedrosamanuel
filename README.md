@@ -4,7 +4,7 @@
 
 &nbsp;***About Me***
 
-I'm an advanced Systems Engineering student with a strong passion for software development. I specialize in **backend development with Java** using frameworks like **Spring Boot** and **Spring Cloud**, but I've also worked with **TypeScript and Node.js**, as well as **PHP with Laravel** in various projects.
+I'm an advanced Systems Engineering student with a strong passion for software development. I specialize in **backend development with Java** using frameworks like **Spring Boot**, but I've also worked with **TypeScript and Node.js**, as well as **PHP with Laravel** in various projects.
 
 I enjoy tackling complex challenges and building robust, scalable systems — especially those that make a real impact. Whether it's working with microservices, designing APIs, or optimizing performance, I’m always looking to push my limits and learn something new.
 
